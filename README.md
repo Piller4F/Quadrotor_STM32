@@ -4,3 +4,8 @@
 # Commit时需要注意格式
 
 【功能】 Android源码   注意按照这样类似的格式提交。 
+
+# 每人需要在在线文档中反馈进度
+
+【腾讯文档】项目实训
+https://docs.qq.com/sheet/DVHJEYXZJc3Fra0pN?scene=kBFfg4YBFfg4RMCfg4esBfg4PnxXn1
